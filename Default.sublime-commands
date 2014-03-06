@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "AddCurrentFolder: Add Folder to Project",
+		"command": "add_current_folder"
+	},
+]
